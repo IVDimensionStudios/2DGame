@@ -4,4 +4,9 @@
 
 Description: This video provides an overview of the upcoming lessons over Paper2D, demonstrating the end result and what we will create as we explore this powerful 2D game development toolset.
 
+Initial Game
+
+![](http://gph.is/29CWXqD)
+
+
 For the full tutorial playlist: https://www.youtube.com/playlist?list=PLZlv_N0_O1gauJh60307mE_67jqK42twB
