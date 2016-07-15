@@ -6,7 +6,7 @@ Description: This video provides an overview of the upcoming lessons over Paper2
 
 Initial Game
 
-![](http://gph.is/29CWXqD)
+![](http://giphy.com/gifs/xT8qBdEqAqjfhxcwfe/html5)
 
 
 For the full tutorial playlist: https://www.youtube.com/playlist?list=PLZlv_N0_O1gauJh60307mE_67jqK42twB
